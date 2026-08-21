@@ -1,5 +1,5 @@
 <div align="center">
-## 👋 Hi, I'm Neha
+# 👋 Hi, I'm **NEHA**
 
 🎓 Computer Science Student
 
