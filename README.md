@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 Hi, I'm **NEHA**
+<h1 align="center" style="font-size: 60px;">👋 Hi, I'm NEHA</h1>
 
 🎓 Computer Science Student
 
