@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center" style="font-size: 60px;">👋 Hi, I'm NEHA</h1>
+<h1 align="center" style="font-family: 'Trebuchet MS', sans-serif; font-weight: 900; letter-spacing: 8px;">👋Hi, I'm NEHA</h1>
 
 🎓 Computer Science Student
 
-I'm a frontend developer passionate about creating clean, responsive, and user-friendly websites.
-I enjoy building projects with React, Tailwind CSS, and JavaScript while improving my skills in
-responsive web design. Currently leveling up in backend development with Node.js & Express.js.
+<p align="center" style="font-family: 'Georgia', serif; font-style: italic; font-size: 16px;">
+I'm a Computer Science student on my journey to becoming a full-stack developer, focused on backend development. I enjoy building practical, user-focused products and learning through real-world projects. I'm continuously exploring new technologies and growing as a developer. I believe the best way to learn is to build, break, fix, and build again.
+</p>
 
 </div>
 
