@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&background=D3D3D3&center=true&vCenter=true&width=600&lines=Hello+World!;Namaste+World!+(India);Hola+World!+(Spain);Sannu+World!+(Nigeria);Salaam+World!+(Pakistan);Hallo+World!+(Germany);Akwaaba+World!+(Ghana);Hola+Mundo!+(Venezuela);Xin+Chao+World!+(Vietnam);Annyeong+World!+(S.Korea);Konnichiwa+World!+(Japan);Nomoshkar+World!+(Bangladesh)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&background=D3D3D3&center=true&vCenter=true&width=600&lines=Hello+World!;Namaste+World!;Hola+World!;Sannu+World!;Salaam+World!;Hallo+World!;Akwaaba+World!;Xin+Chao+World!;Annyeong+World!;Konnichiwa+World!;Nomoshkar+World!" alt="Typing SVG" />
 </div>
 
 <div align="center">
