@@ -3,11 +3,10 @@
 </div>
 
 <div align="center">
-<h1 align="center" style="font-size: 60px;">👋 Hi, I'm 𝗡𝗘𝗛𝗔</h1>
+<h1 align="center" style="font-size: 60px;">𝗛𝗶, 𝗜'𝗺 𝗡𝗘𝗛𝗔
+</h1>
   
-🎓 Computer Science Student
-
-*I'm a Computer Science student on my journey to becoming a full-stack developer, focused on backend development. I enjoy building practical, user-focused products and learning through real-world projects. I'm continuously exploring new technologies and growing as a developer. I believe the best way to learn is to build, break, fix, and build again.*
+*I'm a Computer Science student 🎓 on my journey to becoming a full-stack developer, focused on backend development. I enjoy building practical, user-focused products and learning through real-world projects. I'm continuously exploring new technologies and growing as a developer. I believe the best way to learn is to build, break, fix, and build again.*
 
 </div>
 
