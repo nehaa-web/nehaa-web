@@ -1,8 +1,6 @@
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&speed=20&pause=1000&color=000000&background=F8F8F5&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi,+I'm+NEHA;%F0%9F%92%BB+Full-Stack+Developer;%E2%9A%99%EF%B8%8F+Backend+Developer;%F0%9F%8E%A8+Creative+Developer" alt="Typing SVG" />
 </div>
-
 
 <br>
 
@@ -41,9 +39,23 @@ Currently growing in full-stack, backend and 3D web experiences. Always learning
 
 **infra / tools**
 
-![Vercel](https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-161b22?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwN0FDQyIgZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPgo=)
-![Postman](https://img.shields.io/badge/Postman-161b22?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Canva](https://img.shields.io/badge/Canva-161b22?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTIiIGZpbGw9IiMwMEM0Q0MiLz48cGF0aCBkPSJNMTYgOC41QTUgNSAwIDEgMCAxNiAxNS41IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi40IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L3N2Zz4=)
+![VS Code](https://img.shields.io/badge/VS%20Code-161b22?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwN0FDQyIgZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPgo=)
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-161b22?style=flat-square&logo=postman&logoColor=FF6C37)
+![Vercel](https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=white)
+
+<br>
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://x.com/nini_webdev"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="30"/></a><br/>Twitter</td>
+    <td align="center"><a href=""><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="30"/></a><br/>Portfolio</td>
+    <td align="center"><a href="https://www.youtube.com/@TheNiniSpace"><img src="https://cdn.simpleicons.org/youtube/FF0033" width="30"/></a><br/>YouTube</td>
+    <td align="center"><a href="https://www.instagram.com/Its_figma"><img src="https://skillicons.dev/icons?i=instagram" width="38"/></a><br/>Instagram</td>
+    <td align="center"><a href="mailto:nehacodes08@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38"/></a><br/>Email</td>
+  </tr>
+</table>
