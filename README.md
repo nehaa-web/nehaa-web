@@ -39,6 +39,7 @@ Currently growing in full-stack, backend and 3D web experiences. Always learning
 ![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor-1C3C3C)
 ![JWT](https://img.shields.io/badge/JWT-161b22?style=flat-square&logo=jsonwebtokens&logoColor-white)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-161b22?style=flat-square&logo=gmail&logoColor-EA4335)
+![Redis](https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=DC382D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=47A248)
 
 **infra / tools**
@@ -58,7 +59,7 @@ Currently growing in full-stack, backend and 3D web experiences. Always learning
 <table align="center">
   <tr>
     <td align="center"><a href="https://x.com/nini_webdev"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="30"/></a><br/>Twitter</td>
-    <td align="center"><a href=""><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="30"/></a><br/>Portfolio</td>
+    <td align="center"><a href="https://by-neha.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="30"/></a><br/>Portfolio</td>
     <td align="center"><a href="https://www.youtube.com/@TheNiniSpace"><img src="https://cdn.simpleicons.org/youtube/FF0033" width="30"/></a><br/>YouTube</td>
     <td align="center"><a href="https://www.instagram.com/Its_figma"><img src="https://skillicons.dev/icons?i=instagram" width="38"/></a><br/>Instagram</td>
     <td align="center"><a href="mailto:nehacodes08@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38"/></a><br/>Email</td>
